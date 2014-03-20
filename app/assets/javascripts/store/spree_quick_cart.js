@@ -1,3 +1,3 @@
 //= require jquery
-//= require store/spree_frontend
+//= require spree/frontend
 //= require store/quick_cart
